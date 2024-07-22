@@ -1,0 +1,853 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:14:54] 
+[10:14:54] Server Plugins
+[10:14:54] --------------
+[10:14:54]  Loading plugin: SKY
+[10:14:55] 
+[10:14:55]  ===============================
+[10:14:55]    
+[10:14:55]    < SKY - 2.3.0 >
+[10:14:55]    
+[10:14:55]    (c) 2008 - Present | YSF Maintainers
+[10:14:55]    (c) 2015 | Oscar "Slice" Broman
+[10:14:55]    
+[10:14:55]    Server Version: 0.3.7 R2
+[10:14:55]    Operating System: Windows
+[10:14:55]    Built on: Jul 19 2020 at 18:01:33
+[10:14:55]    
+[10:14:55]  ===============================
+[10:14:55] 
+[10:14:55]   Loaded.
+[10:14:55]  Loading plugin: MerRandom
+[10:14:57] Plugin MerRandom v2.1 - by Cyber_Punk got loaded.
+[10:14:57]   Loaded.
+[10:14:57]  Loading plugin: pawnraknet
+[10:14:58] [Pawn.RakNet] plugin v1.6.0 loading...
+[10:14:58] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.6.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 19:36:19
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[10:14:58]   Loaded.
+[10:14:58]  Loading plugin: PointToPoint
+[10:14:59]  PointToPoint Plugin Loaded.
+[10:14:59]   Loaded.
+[10:14:59]  Loading plugin: sscanf
+[10:15:00] 
+
+[10:15:00]  ===============================
+
+[10:15:00]       sscanf plugin loaded.     
+
+[10:15:00]         Version:  2.10.2        
+
+[10:15:00]    (c) 2020 Alex "Y_Less" Cole  
+
+[10:15:00]  ===============================
+
+[10:15:00]   Loaded.
+[10:15:00]  Loading plugin: streamer
+[10:15:00] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[10:15:00]   Loaded.
+[10:15:00]  Loading plugin: YSF
+[10:15:01] 
+[10:15:01]  ==============================================
+[10:15:01]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[10:15:01]   (c) 2008 Alex "Y_Less" Cole
+[10:15:01]   (c) 2010 - 2018 kurta999
+[10:15:01]   (c) 2018 - 2020 IllidanS4
+[10:15:01]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[10:15:01]  ==============================================
+[10:15:01] 
+[10:15:01]   Loaded.
+[10:15:01]  Loading plugin: mapandreas
+[10:15:01]   Failed.
+[10:15:01]  Loaded 7 plugins.
+
+[10:15:01] 
+[10:15:01] Filterscripts
+[10:15:01] ---------------
+[10:15:01]   Loading filterscript '4dpalms.amx'...
+[10:15:01]   Loading filterscript 'androidcheck.amx'...
+[10:15:01]   Loading filterscript 'buildings.amx'...
+[10:15:01]   Loading filterscript 'ferriswheel2.amx'...
+[10:15:01]   Loading filterscript 'h_elevator.amx'...
+[10:15:01]   Loading filterscript 'ls_apartments12.amx'...
+[10:15:01]   Loading filterscript 'ls_beachside2.amx'...
+[10:15:01]   Loading filterscript 'ls_elevator2.amx'...
+[10:15:01]   Loading filterscript 'sf_zombotech2.amx'...
+[10:15:01]   Loading filterscript 'shamal2.amx'...
+[10:15:01]   Loaded 10 filterscripts.
+
+[10:15:01] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[10:15:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:18:04] 
+[10:18:04] Server Plugins
+[10:18:04] --------------
+[10:18:04]  Loading plugin: SKY
+[10:18:04] 
+[10:18:04]  ===============================
+[10:18:04]    
+[10:18:04]    < SKY - 2.3.0 >
+[10:18:04]    
+[10:18:04]    (c) 2008 - Present | YSF Maintainers
+[10:18:04]    (c) 2015 | Oscar "Slice" Broman
+[10:18:04]    
+[10:18:04]    Server Version: 0.3.7 R2
+[10:18:04]    Operating System: Windows
+[10:18:04]    Built on: Jul 19 2020 at 18:01:33
+[10:18:04]    
+[10:18:04]  ===============================
+[10:18:04] 
+[10:18:04]   Loaded.
+[10:18:04]  Loading plugin: MerRandom
+[10:18:04] Plugin MerRandom v2.1 - by Cyber_Punk got loaded.
+[10:18:04]   Loaded.
+[10:18:04]  Loading plugin: pawnraknet
+[10:18:04] [Pawn.RakNet] plugin v1.6.0 loading...
+[10:18:04] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.6.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 19:36:19
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[10:18:04]   Loaded.
+[10:18:04]  Loading plugin: PointToPoint
+[10:18:04]  PointToPoint Plugin Loaded.
+[10:18:04]   Loaded.
+[10:18:04]  Loading plugin: sscanf
+[10:18:04] 
+
+[10:18:04]  ===============================
+
+[10:18:04]       sscanf plugin loaded.     
+
+[10:18:04]         Version:  2.10.2        
+
+[10:18:04]    (c) 2020 Alex "Y_Less" Cole  
+
+[10:18:04]  ===============================
+
+[10:18:04]   Loaded.
+[10:18:04]  Loading plugin: streamer
+[10:18:04] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[10:18:04]   Loaded.
+[10:18:04]  Loading plugin: YSF
+[10:18:04] 
+[10:18:04]  ==============================================
+[10:18:04]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[10:18:04]   (c) 2008 Alex "Y_Less" Cole
+[10:18:04]   (c) 2010 - 2018 kurta999
+[10:18:04]   (c) 2018 - 2020 IllidanS4
+[10:18:04]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[10:18:04]  ==============================================
+[10:18:04] 
+[10:18:04]   Loaded.
+[10:18:04]  Loading plugin: mapandreas
+[10:18:05]   Loaded.
+[10:18:05]  Loaded 8 plugins.
+
+[10:18:05] 
+[10:18:05] Filterscripts
+[10:18:05] ---------------
+[10:18:05]   Loading filterscript '4dpalms.amx'...
+[10:18:05]   Loading filterscript 'androidcheck.amx'...
+[10:18:05]   Loading filterscript 'buildings.amx'...
+[10:18:05]   Loading filterscript 'ferriswheel2.amx'...
+[10:18:05]   Loading filterscript 'h_elevator.amx'...
+[10:18:05]   Loading filterscript 'ls_apartments12.amx'...
+[10:18:05]   Loading filterscript 'ls_beachside2.amx'...
+[10:18:05]   Loading filterscript 'ls_elevator2.amx'...
+[10:18:05]   Loading filterscript 'sf_zombotech2.amx'...
+[10:18:05]   Loading filterscript 'shamal2.amx'...
+[10:18:05]   Loaded 10 filterscripts.
+
+[10:18:09] Number of vehicle models: 116
+[10:18:36] [connection] incoming connection: 127.0.0.1:64857 id: 0
+[10:18:37] [join] Smoker has joined the server (0:127.0.0.1)
+[10:18:51] [registered] Smoker (ID0) has registered a new account.
+[10:19:03] RCON (In-Game): Player #0 (Smoker) has logged in.
+[10:19:07] [part] Smoker has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:23:15] 
+[10:23:15] Server Plugins
+[10:23:15] --------------
+[10:23:15]  Loading plugin: SKY
+[10:23:15] 
+[10:23:15]  ===============================
+[10:23:15]    
+[10:23:15]    < SKY - 2.3.0 >
+[10:23:15]    
+[10:23:15]    (c) 2008 - Present | YSF Maintainers
+[10:23:15]    (c) 2015 | Oscar "Slice" Broman
+[10:23:15]    
+[10:23:15]    Server Version: 0.3.7 R2
+[10:23:15]    Operating System: Windows
+[10:23:15]    Built on: Jul 19 2020 at 18:01:33
+[10:23:15]    
+[10:23:15]  ===============================
+[10:23:15] 
+[10:23:15]   Loaded.
+[10:23:15]  Loading plugin: MerRandom
+[10:23:15] Plugin MerRandom v2.1 - by Cyber_Punk got loaded.
+[10:23:15]   Loaded.
+[10:23:15]  Loading plugin: pawnraknet
+[10:23:15] [Pawn.RakNet] plugin v1.6.0 loading...
+[10:23:15] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.6.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 19:36:19
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[10:23:15]   Loaded.
+[10:23:15]  Loading plugin: PointToPoint
+[10:23:15]  PointToPoint Plugin Loaded.
+[10:23:15]   Loaded.
+[10:23:15]  Loading plugin: sscanf
+[10:23:15] 
+
+[10:23:15]  ===============================
+
+[10:23:15]       sscanf plugin loaded.     
+
+[10:23:15]         Version:  2.10.2        
+
+[10:23:15]    (c) 2020 Alex "Y_Less" Cole  
+
+[10:23:15]  ===============================
+
+[10:23:15]   Loaded.
+[10:23:15]  Loading plugin: streamer
+[10:23:15] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[10:23:15]   Loaded.
+[10:23:15]  Loading plugin: YSF
+[10:23:15] 
+[10:23:15]  ==============================================
+[10:23:15]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[10:23:15]   (c) 2008 Alex "Y_Less" Cole
+[10:23:15]   (c) 2010 - 2018 kurta999
+[10:23:15]   (c) 2018 - 2020 IllidanS4
+[10:23:15]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[10:23:15]  ==============================================
+[10:23:15] 
+[10:23:15]   Loaded.
+[10:23:15]  Loading plugin: mapandreas
+[10:23:15]   Loaded.
+[10:23:15]  Loaded 8 plugins.
+
+[10:23:15] 
+[10:23:15] Filterscripts
+[10:23:15] ---------------
+[10:23:15]   Loading filterscript '4dpalms.amx'...
+[10:23:15]   Loading filterscript 'androidcheck.amx'...
+[10:23:15]   Loading filterscript 'buildings.amx'...
+[10:23:15]   Loading filterscript 'ferriswheel2.amx'...
+[10:23:15]   Loading filterscript 'h_elevator.amx'...
+[10:23:15]   Loading filterscript 'ls_apartments12.amx'...
+[10:23:15]   Loading filterscript 'ls_beachside2.amx'...
+[10:23:15]   Loading filterscript 'ls_elevator2.amx'...
+[10:23:15]   Loading filterscript 'sf_zombotech2.amx'...
+[10:23:15]   Loading filterscript 'shamal2.amx'...
+[10:23:15]   Loaded 10 filterscripts.
+
+[10:23:17] Number of vehicle models: 116
+[10:23:37] [connection] incoming connection: 127.0.0.1:49916 id: 0
+[10:23:37] [join] Smoker has joined the server (0:127.0.0.1)
+[10:23:48] [logged] Smoker (ID0) has logged in.
+[10:23:56] [part] Smoker has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:24:33] 
+[10:24:33] Server Plugins
+[10:24:33] --------------
+[10:24:33]  Loading plugin: SKY
+[10:24:33] 
+[10:24:33]  ===============================
+[10:24:33]    
+[10:24:33]    < SKY - 2.3.0 >
+[10:24:33]    
+[10:24:33]    (c) 2008 - Present | YSF Maintainers
+[10:24:33]    (c) 2015 | Oscar "Slice" Broman
+[10:24:33]    
+[10:24:33]    Server Version: 0.3.7 R2
+[10:24:33]    Operating System: Windows
+[10:24:33]    Built on: Jul 19 2020 at 18:01:33
+[10:24:33]    
+[10:24:33]  ===============================
+[10:24:33] 
+[10:24:33]   Loaded.
+[10:24:33]  Loading plugin: MerRandom
+[10:24:33] Plugin MerRandom v2.1 - by Cyber_Punk got loaded.
+[10:24:33]   Loaded.
+[10:24:33]  Loading plugin: pawnraknet
+[10:24:33] [Pawn.RakNet] plugin v1.6.0 loading...
+[10:24:33] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.6.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 19:36:19
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[10:24:33]   Loaded.
+[10:24:33]  Loading plugin: PointToPoint
+[10:24:33]  PointToPoint Plugin Loaded.
+[10:24:33]   Loaded.
+[10:24:33]  Loading plugin: sscanf
+[10:24:33] 
+
+[10:24:33]  ===============================
+
+[10:24:33]       sscanf plugin loaded.     
+
+[10:24:33]         Version:  2.10.2        
+
+[10:24:33]    (c) 2020 Alex "Y_Less" Cole  
+
+[10:24:33]  ===============================
+
+[10:24:33]   Loaded.
+[10:24:33]  Loading plugin: streamer
+[10:24:33] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[10:24:33]   Loaded.
+[10:24:33]  Loading plugin: YSF
+[10:24:33] 
+[10:24:33]  ==============================================
+[10:24:33]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[10:24:33]   (c) 2008 Alex "Y_Less" Cole
+[10:24:33]   (c) 2010 - 2018 kurta999
+[10:24:33]   (c) 2018 - 2020 IllidanS4
+[10:24:33]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[10:24:33]  ==============================================
+[10:24:33] 
+[10:24:33]   Loaded.
+[10:24:33]  Loading plugin: mapandreas
+[10:24:33]   Loaded.
+[10:24:33]  Loaded 8 plugins.
+
+[10:24:33] 
+[10:24:33] Filterscripts
+[10:24:33] ---------------
+[10:24:33]   Loading filterscript '4dpalms.amx'...
+[10:24:33]   Loading filterscript 'androidcheck.amx'...
+[10:24:33]   Loading filterscript 'buildings.amx'...
+[10:24:33]   Loading filterscript 'ferriswheel2.amx'...
+[10:24:33]   Loading filterscript 'h_elevator.amx'...
+[10:24:33]   Loading filterscript 'ls_apartments12.amx'...
+[10:24:33]   Loading filterscript 'ls_beachside2.amx'...
+[10:24:33]   Loading filterscript 'ls_elevator2.amx'...
+[10:24:33]   Loading filterscript 'sf_zombotech2.amx'...
+[10:24:33]   Loading filterscript 'shamal2.amx'...
+[10:24:33]   Loaded 10 filterscripts.
+
+[10:24:35] Number of vehicle models: 116
+[10:24:58] [connection] incoming connection: 127.0.0.1:56714 id: 0
+[10:24:58] [join] Smoker has joined the server (0:127.0.0.1)
+[10:25:10] [logged] Smoker (ID0) has logged in.
+[10:25:24] RCON (In-Game): Player #0 (Smoker) has logged in.
+[10:25:33] [part] Smoker has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:27:29] 
+[10:27:29] Server Plugins
+[10:27:29] --------------
+[10:27:29]  Loading plugin: SKY
+[10:27:29] 
+[10:27:29]  ===============================
+[10:27:29]    
+[10:27:29]    < SKY - 2.3.0 >
+[10:27:29]    
+[10:27:29]    (c) 2008 - Present | YSF Maintainers
+[10:27:29]    (c) 2015 | Oscar "Slice" Broman
+[10:27:29]    
+[10:27:29]    Server Version: 0.3.7 R2
+[10:27:29]    Operating System: Windows
+[10:27:29]    Built on: Jul 19 2020 at 18:01:33
+[10:27:29]    
+[10:27:29]  ===============================
+[10:27:29] 
+[10:27:29]   Loaded.
+[10:27:29]  Loading plugin: MerRandom
+[10:27:29] Plugin MerRandom v2.1 - by Cyber_Punk got loaded.
+[10:27:29]   Loaded.
+[10:27:29]  Loading plugin: pawnraknet
+[10:27:29] [Pawn.RakNet] plugin v1.6.0 loading...
+[10:27:29] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.6.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 19:36:19
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[10:27:29]   Loaded.
+[10:27:29]  Loading plugin: PointToPoint
+[10:27:29]  PointToPoint Plugin Loaded.
+[10:27:29]   Loaded.
+[10:27:29]  Loading plugin: sscanf
+[10:27:29] 
+
+[10:27:29]  ===============================
+
+[10:27:29]       sscanf plugin loaded.     
+
+[10:27:29]         Version:  2.10.2        
+
+[10:27:29]    (c) 2020 Alex "Y_Less" Cole  
+
+[10:27:29]  ===============================
+
+[10:27:29]   Loaded.
+[10:27:29]  Loading plugin: streamer
+[10:27:29] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[10:27:29]   Loaded.
+[10:27:29]  Loading plugin: YSF
+[10:27:29] 
+[10:27:29]  ==============================================
+[10:27:29]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[10:27:29]   (c) 2008 Alex "Y_Less" Cole
+[10:27:29]   (c) 2010 - 2018 kurta999
+[10:27:29]   (c) 2018 - 2020 IllidanS4
+[10:27:29]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[10:27:29]  ==============================================
+[10:27:29] 
+[10:27:29]   Loaded.
+[10:27:29]  Loading plugin: mapandreas
+[10:27:29]   Loaded.
+[10:27:29]  Loaded 8 plugins.
+
+[10:27:29] 
+[10:27:29] Filterscripts
+[10:27:29] ---------------
+[10:27:29]   Loading filterscript '4dpalms.amx'...
+[10:27:29]   Loading filterscript 'androidcheck.amx'...
+[10:27:29]   Loading filterscript 'buildings.amx'...
+[10:27:29]   Loading filterscript 'ferriswheel2.amx'...
+[10:27:29]   Loading filterscript 'h_elevator.amx'...
+[10:27:29]   Loading filterscript 'ls_apartments12.amx'...
+[10:27:29]   Loading filterscript 'ls_beachside2.amx'...
+[10:27:29]   Loading filterscript 'ls_elevator2.amx'...
+[10:27:29]   Loading filterscript 'sf_zombotech2.amx'...
+[10:27:29]   Loading filterscript 'shamal2.amx'...
+[10:27:29]   Loaded 10 filterscripts.
+
+[10:27:31] Number of vehicle models: 115
+[10:27:55] [connection] incoming connection: 127.0.0.1:62052 id: 0
+[10:27:55] [join] Smoker has joined the server (0:127.0.0.1)
+[10:28:04] [logged] Smoker (ID0) has logged in.
+[10:28:08] [part] Smoker has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:29:38] 
+[10:29:38] Server Plugins
+[10:29:38] --------------
+[10:29:38]  Loading plugin: SKY
+[10:29:38] 
+[10:29:38]  ===============================
+[10:29:38]    
+[10:29:38]    < SKY - 2.3.0 >
+[10:29:38]    
+[10:29:38]    (c) 2008 - Present | YSF Maintainers
+[10:29:38]    (c) 2015 | Oscar "Slice" Broman
+[10:29:38]    
+[10:29:38]    Server Version: 0.3.7 R2
+[10:29:38]    Operating System: Windows
+[10:29:38]    Built on: Jul 19 2020 at 18:01:33
+[10:29:38]    
+[10:29:38]  ===============================
+[10:29:38] 
+[10:29:38]   Loaded.
+[10:29:38]  Loading plugin: MerRandom
+[10:29:38] Plugin MerRandom v2.1 - by Cyber_Punk got loaded.
+[10:29:38]   Loaded.
+[10:29:38]  Loading plugin: pawnraknet
+[10:29:38] [Pawn.RakNet] plugin v1.6.0 loading...
+[10:29:38] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.6.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 19:36:19
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[10:29:38]   Loaded.
+[10:29:38]  Loading plugin: PointToPoint
+[10:29:38]  PointToPoint Plugin Loaded.
+[10:29:38]   Loaded.
+[10:29:38]  Loading plugin: sscanf
+[10:29:38] 
+
+[10:29:38]  ===============================
+
+[10:29:38]       sscanf plugin loaded.     
+
+[10:29:38]         Version:  2.10.2        
+
+[10:29:38]    (c) 2020 Alex "Y_Less" Cole  
+
+[10:29:38]  ===============================
+
+[10:29:38]   Loaded.
+[10:29:38]  Loading plugin: streamer
+[10:29:38] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[10:29:38]   Loaded.
+[10:29:38]  Loading plugin: YSF
+[10:29:38] 
+[10:29:38]  ==============================================
+[10:29:38]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[10:29:38]   (c) 2008 Alex "Y_Less" Cole
+[10:29:38]   (c) 2010 - 2018 kurta999
+[10:29:38]   (c) 2018 - 2020 IllidanS4
+[10:29:38]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[10:29:38]  ==============================================
+[10:29:38] 
+[10:29:38]   Loaded.
+[10:29:38]  Loading plugin: mapandreas
+[10:29:38]   Loaded.
+[10:29:38]  Loaded 8 plugins.
+
+[10:29:38] 
+[10:29:38] Filterscripts
+[10:29:38] ---------------
+[10:29:38]   Loading filterscript '4dpalms.amx'...
+[10:29:38]   Loading filterscript 'androidcheck.amx'...
+[10:29:38]   Loading filterscript 'buildings.amx'...
+[10:29:38]   Loading filterscript 'ferriswheel2.amx'...
+[10:29:38]   Loading filterscript 'h_elevator.amx'...
+[10:29:38]   Loading filterscript 'ls_apartments12.amx'...
+[10:29:38]   Loading filterscript 'ls_beachside2.amx'...
+[10:29:38]   Loading filterscript 'ls_elevator2.amx'...
+[10:29:38]   Loading filterscript 'sf_zombotech2.amx'...
+[10:29:38]   Loading filterscript 'shamal2.amx'...
+[10:29:38]   Loaded 10 filterscripts.
+
+[10:29:45] Number of vehicle models: 116
+[10:30:00] [connection] incoming connection: 127.0.0.1:56313 id: 0
+[10:30:00] [join] Madd_Smoker has joined the server (0:127.0.0.1)
+[10:30:10] [logged] Madd_Smoker (ID0) has logged in.
+[10:30:26] [map teleport] Madd_Smoker has map teleported from Ocean Docks, Los Santos to Pershing Square, Los Santos.
+[10:30:27] [map teleport] Madd_Smoker has map teleported from Pershing Square, Los Santos to Pershing Square, Los Santos.
+[10:30:39] [part] Madd_Smoker has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:55:20] 
+[03:55:20] Server Plugins
+[03:55:20] --------------
+[03:55:20]  Loading plugin: SKY
+[03:55:20] 
+[03:55:20]  ===============================
+[03:55:20]    
+[03:55:20]    < SKY - 2.3.0 >
+[03:55:20]    
+[03:55:20]    (c) 2008 - Present | YSF Maintainers
+[03:55:20]    (c) 2015 | Oscar "Slice" Broman
+[03:55:20]    
+[03:55:20]    Server Version: 0.3.7 R2
+[03:55:20]    Operating System: Windows
+[03:55:20]    Built on: Jul 19 2020 at 18:01:33
+[03:55:20]    
+[03:55:20]  ===============================
+[03:55:20] 
+[03:55:20]   Loaded.
+[03:55:20]  Loading plugin: MerRandom
+[03:55:20] Plugin MerRandom v2.1 - by Cyber_Punk got loaded.
+[03:55:20]   Loaded.
+[03:55:20]  Loading plugin: pawnraknet
+[03:55:22] [Pawn.RakNet] plugin v1.6.0 loading...
+[03:55:22] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.6.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 19:36:19
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[03:55:22]   Loaded.
+[03:55:22]  Loading plugin: PointToPoint
+[03:55:22]  PointToPoint Plugin Loaded.
+[03:55:22]   Loaded.
+[03:55:22]  Loading plugin: sscanf
+[03:55:23] 
+
+[03:55:23]  ===============================
+
+[03:55:23]       sscanf plugin loaded.     
+
+[03:55:23]         Version:  2.10.2        
+
+[03:55:23]    (c) 2020 Alex "Y_Less" Cole  
+
+[03:55:23]  ===============================
+
+[03:55:23]   Loaded.
+[03:55:23]  Loading plugin: streamer
+[03:55:23] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[03:55:23]   Loaded.
+[03:55:23]  Loading plugin: YSF
+[03:55:23] 
+[03:55:23]  ==============================================
+[03:55:23]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[03:55:23]   (c) 2008 Alex "Y_Less" Cole
+[03:55:23]   (c) 2010 - 2018 kurta999
+[03:55:23]   (c) 2018 - 2020 IllidanS4
+[03:55:23]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[03:55:23]  ==============================================
+[03:55:23] 
+[03:55:23]   Loaded.
+[03:55:23]  Loading plugin: mapandreas
+[03:55:23]   Loaded.
+[03:55:23]  Loaded 8 plugins.
+
+[03:55:23] 
+[03:55:23] Filterscripts
+[03:55:23] ---------------
+[03:55:23]   Loading filterscript '4dpalms.amx'...
+[03:55:23]   Loading filterscript 'androidcheck.amx'...
+[03:55:23]   Loading filterscript 'buildings.amx'...
+[03:55:23]   Loading filterscript 'ferriswheel2.amx'...
+[03:55:23]   Loading filterscript 'h_elevator.amx'...
+[03:55:23]   Loading filterscript 'ls_apartments12.amx'...
+[03:55:23]   Loading filterscript 'ls_beachside2.amx'...
+[03:55:23]   Loading filterscript 'ls_elevator2.amx'...
+[03:55:24]   Loading filterscript 'sf_zombotech2.amx'...
+[03:55:24]   Loading filterscript 'shamal2.amx'...
+[03:55:24]   Loaded 10 filterscripts.
+
+[03:55:29] Number of vehicle models: 115
+[03:55:52] [connection] incoming connection: 127.0.0.1:65479 id: 0
+[03:55:52] [join] Madd_Smoker has joined the server (0:127.0.0.1)
+[03:56:05] [logged] Madd_Smoker (ID0) has logged in.
+[03:56:13] [setscore] Madd_Smoker has set Madd_Smoker (ID0)'s score to 100.
+[03:56:18] [map teleport] Madd_Smoker has map teleported from Pershing Square, Los Santos to Market, Los Santos.
+[03:56:42] [part] Madd_Smoker has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:46:47] 
+[04:46:47] Server Plugins
+[04:46:47] --------------
+[04:46:47]  Loading plugin: SKY
+[04:46:47] 
+[04:46:47]  ===============================
+[04:46:47]    
+[04:46:47]    < SKY - 2.3.0 >
+[04:46:47]    
+[04:46:47]    (c) 2008 - Present | YSF Maintainers
+[04:46:47]    (c) 2015 | Oscar "Slice" Broman
+[04:46:47]    
+[04:46:47]    Server Version: 0.3.7 R2
+[04:46:47]    Operating System: Windows
+[04:46:47]    Built on: Jul 19 2020 at 18:01:33
+[04:46:47]    
+[04:46:47]  ===============================
+[04:46:47] 
+[04:46:47]   Loaded.
+[04:46:47]  Loading plugin: MerRandom
+[04:46:47] Plugin MerRandom v2.1 - by Cyber_Punk got loaded.
+[04:46:47]   Loaded.
+[04:46:47]  Loading plugin: pawnraknet
+[04:46:47] [Pawn.RakNet] plugin v1.6.0 loading...
+[04:46:47] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.6.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 19:36:19
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/katursis/Pawn.RakNet/wiki
+
+[04:46:47]   Loaded.
+[04:46:47]  Loading plugin: PointToPoint
+[04:46:47]  PointToPoint Plugin Loaded.
+[04:46:47]   Loaded.
+[04:46:47]  Loading plugin: sscanf
+[04:46:47] 
+
+[04:46:47]  ===============================
+
+[04:46:47]       sscanf plugin loaded.     
+
+[04:46:47]         Version:  2.10.2        
+
+[04:46:47]    (c) 2020 Alex "Y_Less" Cole  
+
+[04:46:47]  ===============================
+
+[04:46:47]   Loaded.
+[04:46:47]  Loading plugin: streamer
+[04:46:47] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[04:46:47]   Loaded.
+[04:46:47]  Loading plugin: YSF
+[04:46:47] 
+[04:46:47]  ==============================================
+[04:46:47]  YSF 2.2 (compiled Sep 19 2021 13:01:03) loaded
+[04:46:47]   (c) 2008 Alex "Y_Less" Cole
+[04:46:47]   (c) 2010 - 2018 kurta999
+[04:46:47]   (c) 2018 - 2020 IllidanS4
+[04:46:47]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[04:46:47]  ==============================================
+[04:46:47] 
+[04:46:47]   Loaded.
+[04:46:47]  Loading plugin: mapandreas
+[04:46:47]   Loaded.
+[04:46:47]  Loaded 8 plugins.
+
+[04:46:48] 
+[04:46:48] Filterscripts
+[04:46:48] ---------------
+[04:46:48]   Loading filterscript '4dpalms.amx'...
+[04:46:48]   Loading filterscript 'androidcheck.amx'...
+[04:46:48]   Loading filterscript 'buildings.amx'...
+[04:46:48]   Loading filterscript 'ferriswheel2.amx'...
+[04:46:48]   Loading filterscript 'h_elevator.amx'...
+[04:46:48]   Loading filterscript 'ls_apartments12.amx'...
+[04:46:48]   Loading filterscript 'ls_beachside2.amx'...
+[04:46:48]   Loading filterscript 'ls_elevator2.amx'...
+[04:46:48]   Loading filterscript 'sf_zombotech2.amx'...
+[04:46:48]   Loading filterscript 'shamal2.amx'...
+[04:46:48]   Loaded 10 filterscripts.
+
+[04:46:50] Number of vehicle models: 116
+[04:47:16] [connection] incoming connection: 127.0.0.1:52582 id: 0
+[04:47:16] [join] Madd_Smoker has joined the server (0:127.0.0.1)
+[04:47:25] [logged] Madd_Smoker (ID0) has logged in.
+[04:47:43] [map teleport] Madd_Smoker has map teleported from Market, Los Santos to Willowfield, Los Santos.
+[04:48:29] [map teleport] Madd_Smoker has map teleported from Willowfield, Los Santos to Willowfield, Los Santos.
+[04:48:30] [map teleport] Madd_Smoker has map teleported from Willowfield, Los Santos to Willowfield, Los Santos.
+[04:48:39] [map teleport] Madd_Smoker has map teleported from Willowfield, Los Santos to Willowfield, Los Santos.
+[04:49:00] [map teleport] Madd_Smoker has map teleported from Willowfield, Los Santos to Willowfield, Los Santos.
+[04:49:14] [map teleport] Madd_Smoker has map teleported from Willowfield, Los Santos to Willowfield, Los Santos.
+[04:49:15] [map teleport] Madd_Smoker has map teleported from Willowfield, Los Santos to Willowfield, Los Santos.
+[04:49:37] [map teleport] Madd_Smoker has map teleported from Willowfield, Los Santos to Blueberry, Red County.
+[04:50:00] [map teleport] Madd_Smoker has map teleported from Blueberry, Red County to Bone County.
+[04:50:20] [map teleport] Madd_Smoker has map teleported from Fort Carson, Bone County to Ocean Flats, San Fierro.
+[04:50:43] [part] Madd_Smoker has left the server (0:1)
